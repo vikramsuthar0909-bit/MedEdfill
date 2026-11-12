@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vikramsuthar0909-bit.github.io/MedEdfill/sitemap.xml
